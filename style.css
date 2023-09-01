@@ -3,13 +3,12 @@
     margin: 0;
 
 }
-.hiddens{
-    background-color: black;
+button {
+    color: #eee;
+    border: none;
+    background-color: transparent;
 }
-.hellochaman{
-      mix-blend-mode: multiply;
-  filter: contrast(1);
-}
+
 .area {
     background: #020202;
     background: -webkit-linear-gradient(to left, #8f94fb, #080808);
