@@ -1,4 +1,4 @@
-let text = ("devamop@axl");
+let text = ("devam69@upi");
 const copyContent = async () => {
   try {
     await navigator.clipboard.writeText(text);
