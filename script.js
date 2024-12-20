@@ -1,4 +1,4 @@
-const text = "devam69@upi";
+const text = "devam69@axl";
 
 const copyContent = async () => {
   try {
